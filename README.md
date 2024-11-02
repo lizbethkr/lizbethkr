@@ -1,11 +1,11 @@
-<h1 align="center">Hello! I'm Lizbeth </h1>
+<h1 align="center">Hello! I'm Lizbeth 🐰 </h1>
 <h4 align="center">I am a 3rd year Data Science student at UCI, passionate about using data to solve complex issues and improve lives, especially for underserved communities. Whether working on projects in customer analytics or public health, I am driven to create data-led solutions that enhance satisfaction and simplify decision making.</h4>
 
 I’m currently working on **Operation: Diabetes Prevention**
 
 I’m currently learning **SQL, Discrete Mathematics for Computer Science, and Machine Learning**
 
-Ask me about **data visualization and data analysis**
+Ask me about **data visualization, data analysis, and music 🎵**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
