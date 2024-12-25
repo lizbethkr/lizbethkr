@@ -3,7 +3,7 @@
 
 I’m currently working on **Operation: Diabetes Prevention**
 
-I’m currently learning **SQL, Discrete Mathematics for Computer Science, and Machine Learning**
+I’m currently learning **Machine Learning, Data Mining, and AI **
 
 Ask me about **data visualization, data analysis, and music 🎵**
 
