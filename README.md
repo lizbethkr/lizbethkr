@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Lizbeth 🐰 </h1>
-<h4 align="center">I am an incoming 4th year Data Science student at UCI, passionate about using data to solve complex issues and improve lives, especially for underserved communities. Whether I'm working on projects in customer analytics or public health, I am driven to create data-led solutions that enhance satisfaction and simplify decision making.</h4>
+<h4 align="center">I am a 4th year Data Science student at UCI, passionate about using data to solve complex issues and improve lives, especially for underserved communities. Whether I'm working on projects in customer analytics or public health, I am driven to create data-led solutions that enhance satisfaction and simplify decision making.</h4>
 
 I’m currently learning **Machine Learning, Data Mining, and AI**
 
